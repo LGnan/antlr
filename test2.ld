@@ -1,7 +1,7 @@
 program myProgram;
 var x : int;
 {
-  x = 5;
+  x = 1;
   print(x);
 }
 end
